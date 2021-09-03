@@ -1,0 +1,16 @@
+h1 {
+    font-family: "Comic Sans MS";
+    color: brown;
+}
+
+table tr .edit {
+    display: none;
+}
+
+table tr.edit .edit {
+    display: initial;
+}
+
+table tr.edit .noEdit {
+    display: none;
+}
